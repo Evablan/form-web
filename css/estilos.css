@@ -1,0 +1,16 @@
+/* estilos.css */
+
+.bg-violeta {
+    background-color: #6f42c1; /* Un tono violeta */
+    color: white;
+}
+
+.btn-violeta {
+    background-color: #6f42c1; /* Tono violeta para el botón */
+    border-color: #6f42c1;
+}
+
+.btn-violeta:hover {
+    background-color: #5a32a3; /* Color un poco más oscuro al pasar el cursor */
+    border-color: #5a32a3;
+}
